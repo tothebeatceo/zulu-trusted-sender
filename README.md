@@ -1,3 +1,5 @@
+![zulu-trusted-sender](https://zuluedm.com/trusted-sender/1.0/dist/img/ShakaTrustedSenderTrans320.png)
+ 
  * Created by ToTheBeat.CEO 
  * @package zulu-trusted-sender
  * @version 0.02
@@ -19,7 +21,15 @@ by lazy marketers, eBlasters and "marketing automation" systems will be held to 
 
 Hopefully reducing the volume of email JUNK!!!  
 
+```json
+"tothebeatCEO/zulu-trusted-sender": "0.0.3"
+```
 
+or run
+
+```sh
+composer require tothebeatCEO/zulu-trusted-sender
+```
 
 
 
@@ -27,4 +37,7 @@ Hopefully reducing the volume of email JUNK!!!
 Check the DMARC record for p>none and pct. Important for domain protection and anti-SPOOF emails
 
 # zulu-trusted-sender v0.02
-Readme file and example.php tidiedup
+Readme file and example.php tidied up
+
+# zulu-trusted-sender v0.03
+Added composer.json &  install

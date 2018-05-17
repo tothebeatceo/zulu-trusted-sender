@@ -1,0 +1,24 @@
+{
+  "name": "zulu-trusted-sender",
+  "description":  "the technical checks of DMARC implementation and other key sending variables to see if the sender of the email is Trusted or Trustworthy",
+  "homepage": "http://github.com/tothebeatCEO/zulu-trusted-sender",
+  "license": "MIT",
+  "keywords": ["DMARC, DNS, email, spoof, phishing, zulu eDM, eDM, email reputation"],
+  "version": "0.0.3",
+  "authors": [
+    {
+      "name": "ToTheBeat.CEO",
+      "email": "tothebeat.ceo@gmail.com",
+      "homepage": "https://zuluedm.com/trusted-sender"
+    }
+  ],
+  "dependencies": {
+    "php": ">=5.3",
+    "ext-curl": "*"
+  },
+    "require": {
+      "nategood/httpful": "*",
+      "PHPMailer/PHPMailer": "~6.0.0"
+  }
+  }
+
