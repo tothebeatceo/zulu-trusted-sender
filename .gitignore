@@ -1,3 +1,4 @@
 vendor/
-admin-user/
 *.lock
+*.iml
+*.xml
