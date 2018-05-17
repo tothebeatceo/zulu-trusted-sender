@@ -9,7 +9,7 @@
  * Returns True if implemented with > Quarantine + pct == 100pc
  * Date: 18/05/2018
  */
-
+This script  is in action here [Email Checker](https://zuluedm.com/trusted-sender) 
 
 As of this date less than 50% of the S&P 500 are DMARC protected. 202 have a record but very few are 100pct + quarantine or reject.
 
