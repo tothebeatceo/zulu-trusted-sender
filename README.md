@@ -28,3 +28,7 @@ Check the DMARC record for p>none and pct. Important for domain protection and a
 
 # zulu-trusted-sender v0.02
 Readme file and example.php tidiedup
+
+# zulu-trusted-sender v0.03
+composer.json & install dependencies for the branch
+
