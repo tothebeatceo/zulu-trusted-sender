@@ -37,7 +37,13 @@ composer require tothebeatCEO/zulu-trusted-sender
 Check the DMARC record for p>none and pct. Important for domain protection and anti-SPOOF emails
 
 # zulu-trusted-sender v0.02
+<<<<<<< HEAD
 Readme file and example.php tidied up
 
 # zulu-trusted-sender v0.03
 Added composer.json &  install
+=======
+# zulu-trusted-sender v0.03
+composer.json & install dependencies for the branch
+
+>>>>>>> admin-user

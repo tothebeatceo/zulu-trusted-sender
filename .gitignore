@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 vendor/
 *.lock
 *.iml
 *.xml
+=======
+
+*.iml
+*.xml
+>>>>>>> admin-user
