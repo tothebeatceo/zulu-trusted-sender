@@ -2,7 +2,7 @@
 /**
  * Created by ToTheBeat.CEO 
  * @package zulu-trusted-sender
- * @version 0.02
+ * @version 1.00
  * @author Dave Barnes (tothebeatCEO/zulu-trusted-sender) <tothebeat.ceo@gmail.com>
  * DMARC Check for general SPOOF protection
  * Used as part if the Zulu eDM Trusted Sender Program 
@@ -20,7 +20,7 @@ include 'Trusted-Sender-DMARC.php';
 
  $setURL = "zululabs.com";
 
- If (setDMARCpof($setURL) == True) {
+ if (setDMARCpof($setURL) === true) {
         echo "True";
     } else {
         echo "False";
