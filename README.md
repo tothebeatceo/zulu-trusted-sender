@@ -3,7 +3,7 @@
  
  * Created by ToTheBeat.CEO 
  * @package zululabs/zulu-trusted-sender
- * @version 1.0
+ * @version v1.0.2
  * @files Trusted-Sender-DMARC.php (main function) call.php (calling the main function) and
  example.php which is a form submission.
  * @author Dave Barnes (tothebeatCEO/zulu-trusted-sender) <tothebeat.ceo@gmail.com>
@@ -23,7 +23,7 @@ by lazy marketers, eBlasters and "marketing automation" systems will be held to 
 Hopefully reducing the volume of email JUNK!!!  
 
 ```json
-"zululabs/zulu-trusted-sender": "1.0"
+"zululabs/zulu-trusted-sender": "v1.0.2"
 ```
 
 or run
@@ -45,5 +45,5 @@ Added composer.json &  install
 
 # zulu-trusted-sender v0.04
 Function to use Hetrix tools blacklist API 
-# zulu-trusted-sender v1.0
+# zulu-trusted-sender v1.0.0
 PHP 7.0+ compatible and final example completed
