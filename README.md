@@ -2,7 +2,7 @@
 ![zulu-trusted-sender](https://zuluedm.com/trusted-sender/1.0/dist/img/ShakaTrustedSenderTrans320.png)
  
  * Created by ToTheBeat.CEO 
- * @package zulu-trusted-sender
+ * @package zululabs/zulu-trusted-sender
  * @version 1.0
  * @files Trusted-Sender-DMARC.php (main function) call.php (calling the main function) and
  example.php which is a form submission.
