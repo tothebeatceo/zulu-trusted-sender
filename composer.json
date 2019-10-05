@@ -3,7 +3,7 @@
   "description":  "Check the DMARC record for p>none and pct. Important for domain protection and anti-SPOOF emails",
   "homepage": "http://github.com/tothebeatCEO/zulu-trusted-sender",
   "license": "MIT",
-  "keywords": ["DMARC, DNS, email, spoof, phishing, zulu eDM, eDM, email reputation"],
+  "keywords": ["DMARC", "DNS", "email", "spoof", "anti-phishing", "zulu eDM", "eDM", "email reputation", "trusted sender", "trusted sender score", "email authentication"],
   "version": "v1.0.2",
   "authors": [
     {
