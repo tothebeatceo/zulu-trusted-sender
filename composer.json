@@ -4,7 +4,7 @@
   "homepage": "http://github.com/tothebeatCEO/zulu-trusted-sender",
   "license": "MIT",
   "keywords": ["DMARC, DNS, email, spoof, phishing, zulu eDM, eDM, email reputation"],
-  "version": "0.0.3",
+  "version": "1.0",
   "authors": [
     {
       "name": "ToTheBeat.CEO",
