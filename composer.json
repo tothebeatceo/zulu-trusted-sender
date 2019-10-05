@@ -1,6 +1,6 @@
 {
   "name": "zululabs/zulu-trusted-sender",
-  "description":  "the technical checks of DMARC implementation and other key sending variables to see if the sender of the email is Trusted or Trustworthy",
+  "description":  "Check the DMARC record for p>none and pct. Important for domain protection and anti-SPOOF emails",
   "homepage": "http://github.com/tothebeatCEO/zulu-trusted-sender",
   "license": "MIT",
   "keywords": ["DMARC, DNS, email, spoof, phishing, zulu eDM, eDM, email reputation"],
