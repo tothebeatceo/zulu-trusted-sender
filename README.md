@@ -1,15 +1,16 @@
+<<<<<<< HEAD
 ![zulu-trusted-sender](https://zuluedm.com/trusted-sender/1.0/dist/img/ShakaTrustedSenderTrans320.png)
  
  * Created by ToTheBeat.CEO 
- * @package zulu-trusted-sender
- * @version 0.02
+ * @package zululabs/zulu-trusted-sender
+ * @version v1.0.2
  * @files Trusted-Sender-DMARC.php (main function) call.php (calling the main function) and
  example.php which is a form submission.
  * @author Dave Barnes (tothebeatCEO/zulu-trusted-sender) <tothebeat.ceo@gmail.com>
  * DMARC Check for general SPOOF protection
  * Used as part if the Zulu eDM Trusted Sender Program 
  * Returns True if implemented with > Quarantine + pct == 100pc
- * Date: 18/05/2018
+ * Date: 10/09/2019
  */
 This script  is in action here [Email Checker](https://zuluedm.com/trusted-sender/?utm_source=Zulu%20eDM&utm_medium=Github&utm_campaign=Trusted%20Sender) 
 
@@ -22,13 +23,13 @@ by lazy marketers, eBlasters and "marketing automation" systems will be held to 
 Hopefully reducing the volume of email JUNK!!!  
 
 ```json
-"tothebeatCEO/zulu-trusted-sender": "0.0.3"
+"zululabs/zulu-trusted-sender": "v1.0.2"
 ```
 
 or run
 
 ```sh
-composer require tothebeatCEO/zulu-trusted-sender
+composer require zululabs/zulu-trusted-sender
 ```
 
 
@@ -41,3 +42,8 @@ Readme file and example.php tidied up
 
 # zulu-trusted-sender v0.03
 Added composer.json &  install
+
+# zulu-trusted-sender v0.04
+Function to use Hetrix tools blacklist API 
+# zulu-trusted-sender v1.0.0
+PHP 7.0+ compatible and final example completed
