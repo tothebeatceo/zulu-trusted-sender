@@ -1,5 +1,10 @@
-<<<<<<< HEAD
-![zulu-trusted-sender](https://zuluedm.com/trusted-sender/1.0/dist/img/ShakaTrustedSenderTrans320.png)
+
+ ![zulu-trusted-sender](https://zuluedm.com/trusted-sender/assets/img/ShakaTrustedSenderTrans120.png)
+ 
+ Trusted Sender DMARC Compliance Algorythm
+ =====================
+ 
+#### First Published  May 18, 2018 
  
  * Created by ToTheBeat.CEO 
  * @package zululabs/zulu-trusted-sender
@@ -12,13 +17,16 @@
  * Returns True if implemented with > Quarantine + pct == 100pc
  * Date: 10/09/2019
  */
-This script  is in action here [Email Checker](https://zuluedm.com/trusted-sender/?utm_source=Zulu%20eDM&utm_medium=Github&utm_campaign=Trusted%20Sender) 
+ 
+ ## Use
+ Use this script for checking if a domain id DMARC compliant, that means, instructions are set so that no mail will be delivered if the DMARC check fails. Setting sp=none and p=reject will not pass this check.
+ 
+This script is in action here [Email Checker](https://zuluedm.com/trusted-sender/email-tools.php?utm_source=Zulu%20eDM&utm_medium=Github&utm_campaign=Trusted%20Sender) 
 
-As of this date less than 50% of the S&P 500 are DMARC protected. 202 have a record but very few are 100pct + quarantine or reject.
+### DMARC Adoption & Research 
+For further links please see our [wiki](https://github.com/tothebeatceo/zulu-trusted-sender/wiki)
 
-Email Cyber attacks are one thing but getting encouraging DMARC will make domains visible to 
-the Webmail and FBL profviders Vs having an ESP return path. Therefore bad campaign practices
-by lazy marketers, eBlasters and "marketing automation" systems will be held to account. Reputations (delivery) will slide unless better campaign practices are undertaken
+This methodolgy can be applied to inbound email checks as well preventative checking.
 
 Hopefully reducing the volume of email JUNK!!!  
 
@@ -45,5 +53,5 @@ Added composer.json &  install
 
 # zulu-trusted-sender v0.04
 Function to use Hetrix tools blacklist API 
-# zulu-trusted-sender v1.0.0
+# zulu-trusted-sender v1.02
 PHP 7.0+ compatible and final example completed
