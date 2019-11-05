@@ -3,7 +3,8 @@
  
  Trusted Sender DMARC Compliance Algorythm
  =====================
- 
+ Part of the Trusted Email Sender Community Initiative. Please check the [wiki](https://github.com/tothebeatceo/zulu-trusted-sender/wiki) for other development and ways you can help.
+ <a href="https://liberapay.com/zululabsshaka/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 #### First Published  May 18, 2018 
  
  * Created by ToTheBeat.CEO 
