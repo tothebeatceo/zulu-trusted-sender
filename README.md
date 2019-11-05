@@ -22,7 +22,7 @@
  ## Use
  Use this script for checking if a domain id DMARC compliant, that means, instructions are set so that no mail will be delivered if the DMARC check fails. Setting sp=none and p=reject will not pass this check.
  
-This script is in action here [Email Checker](https://zuluedm.com/trusted-sender/email-tools.php?utm_source=Zulu%20eDM&utm_medium=Github&utm_campaign=Trusted%20Sender) 
+This script is in action here [Email Checker](https://zuluedm.com/trusted-sender/1.0/email-tools.php?utm_source=Zulu%20eDM&utm_medium=Github&utm_campaign=Trusted%20Sender) 
 
 ### DMARC Adoption & Research 
 For further links please see our [wiki](https://github.com/tothebeatceo/zulu-trusted-sender/wiki)
